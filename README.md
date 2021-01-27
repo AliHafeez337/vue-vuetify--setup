@@ -1,4 +1,4 @@
-# brisk-website
+# Vue-vuetify
 
 ## Project setup
 ```
